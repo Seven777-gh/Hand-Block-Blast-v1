@@ -321,4 +321,3 @@ while running:
 
 cap.release()
 pygame.quit()
-# Hùng đẹp trai vãi
